@@ -30,3 +30,5 @@ N/A
 ## License
 
 Please refer to the LICENSE in the repo.
+
+# [link to completed project](https://hweltzien.github.io/prework-study-guide/)
